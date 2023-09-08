@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "leaflet": "^1.9.4",
+    "react-datepicker": "^4.16.0",
+    "react-leaflet": "^4.2.1"
+  }
+}

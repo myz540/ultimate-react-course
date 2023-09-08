@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Boston",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-08-31T20:08:23.174Z",
+      "notes": "home",
+      "position": {
+        "lat": "42.38898005764399",
+        "lng": "-71.20239257812501"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Hadley",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-08-31T21:26:00.757Z",
+      "notes": "te",
+      "position": {
+        "lat": "42.32098569864824",
+        "lng": "-72.57019042968751"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Lavaltrie",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2023-08-31T21:26:22.734Z",
+      "notes": "",
+      "position": {
+        "lat": "45.90529985724799",
+        "lng": "-73.33374023437501"
+      },
+      "id": 98443205
+    }
+  ]
+}
