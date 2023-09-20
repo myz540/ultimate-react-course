@@ -6,7 +6,6 @@ import {
   useReducer,
   useCallback,
 } from "react";
-import { UNSAFE_DataRouterContext } from "react-router-dom";
 
 const BASE_URL = "http://localhost:9000";
 
