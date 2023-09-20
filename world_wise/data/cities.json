@@ -59,6 +59,30 @@
         "lng": "40.06988525390625"
       },
       "id": 98443206
+    },
+    {
+      "cityName": "Ordu",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-09-20T18:28:47.493Z",
+      "notes": "test",
+      "position": {
+        "lat": "40.98819156349393",
+        "lng": "37.99072265625"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Boston",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-20T18:28:57.610Z",
+      "notes": "Home",
+      "position": {
+        "lat": "42.13082130188811",
+        "lng": "-70.99365234375001"
+      },
+      "id": 98443208
     }
   ]
 }
